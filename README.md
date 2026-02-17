@@ -1,0 +1,1 @@
+# the_ai_model_of_grad_project
